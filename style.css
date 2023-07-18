@@ -11,3 +11,18 @@ h2 {
 article {
     background: #78ebcb;
 }
+.main-text {
+    color: darkblue;
+}
+
+#kasprowy {
+    background-color: palevioletred;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+main h3 {
+    color: darkred;
+}
